@@ -1,0 +1,48 @@
+.title{
+    background-color: black;
+    color: white;
+    font-size: 48px;
+    padding: 8px;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+}
+.link{
+    color: black;
+    font-weight: bold;
+    padding: 8px;
+    list-style-type: none;
+}
+
+.chicken{
+    font-size: 36px;
+    background-color: rgb(211, 23, 221);
+    padding: 8px;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+    border: 8px solid black;
+}
+
+#cookie{
+    font-size: 36px;
+    background-color: aqua;
+    padding: 8px;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+    border: 8px solid black;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.hotdog{
+    font-size: 36px;
+    font-style: italic;
+    background-color: bisque;
+    padding: 8px;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+    border: 8px solid black;
+}
